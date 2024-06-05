@@ -13,6 +13,7 @@
 - they can use other filtering option like price and brand
 
 
+
 ## **Used Packages**
 - framer-motion
 - react-helmet
@@ -21,4 +22,4 @@
 - react-icons
 
 
-**`Website Live Link:`** : 
+**`Website Live Link:`** : https://timezen-client.vercel.app
