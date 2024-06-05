@@ -1,8 +1,24 @@
-# React + Vite
+**`Website Name:`** : TIMEZEN
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## **Features**
+- This is a watch shop website. 
+- It includes shops, brands, contact, services.
+- user and user admin are available with authentication
+- connect the server side with your monogdb 
+- register with verified email
+- then change the role to 1 to be a admin using ur email
+- Then a admin can create, update, delete and view of a product
+- user can search for their desired product
+- they can use other filtering option like price and brand
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## **Used Packages**
+- framer-motion
+- react-helmet
+- react-toast
+- react-slider
+- react-icons
+
+
+**`Website Live Link:`** : 
